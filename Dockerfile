@@ -1,4 +1,3 @@
-# syntax=docker/dockerfile:1
 FROM python:3.9.12-bullseye
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
