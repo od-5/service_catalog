@@ -1,2 +1,17 @@
+.git
 data
 .idea
+*.pyc
+*.bak
+django_src
+django_src/static/
+django_src/media/
+**/migrations/*
+**/**/migrations/*
+**/**/**/migrations/*
+**/**/**/**/migrations/*
+!**/migrations/__init__.py
+!**/**/migrations/__init__.py
+!**/**/**/migrations/__init__.py
+!**/**/**/**/migrations/__init__.py
+/src/
