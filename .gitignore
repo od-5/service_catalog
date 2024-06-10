@@ -3,7 +3,6 @@ data
 .idea
 *.pyc
 *.bak
-django_src
 django_src/static/
 django_src/media/
 **/migrations/*
